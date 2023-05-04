@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Fudbool",
+    "text": "Bugun Soat 19:00 Foodbol bor",
+    "date": "2023-05-04T14:52:45.892Z",
+    "user_id": "2"
+  },
+  {
+    "id": 2,
+    "title": "Referendum",
+    "text": "30 aprel referendumga boramiz",
+    "date": "2023-05-04T16:16:20.028Z",
+    "user_id": "2"
+  },
+  {
+    "id": 3,
+    "title": "Choyxona",
+    "text": "Bugun bollar bilan choyxona",
+    "date": "2023-05-04T16:16:52.376Z",
+    "user_id": "2"
+  },
+  {
+    "id": 4,
+    "title": "Referendum",
+    "text": "30 aprel referendumga boramiz",
+    "date": "2023-05-04T16:17:31.161Z",
+    "user_id": "2"
+  },
+  {
+    "id": 5,
+    "title": "Referendum",
+    "text": "30 aprel referendumga boramiz",
+    "date": "2023-05-04T16:17:33.272Z",
+    "user_id": "2"
+  }
+]
